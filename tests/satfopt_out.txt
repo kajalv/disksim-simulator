@@ -1,0 +1,25 @@
+Disk configuration
+Platters: 5			Cylinders: 100		Blocks per track: 500
+Rotational speed: 5000		Block read time: 0.01		Block write time: 0.05
+Starting cyl (head): 58		Start direction: 1
+Requests:
+Cyl: 58, 	Head: 6, 	Start: 230,  	 Num blks: 8, 	R/W: 0
+Cyl: 62, 	Head: 9, 	Start: 23,  	 Num blks: 7, 	R/W: 0
+Cyl: 0, 	Head: 8, 	Start: 47,  	 Num blks: 6, 	R/W: 0
+Cyl: 15, 	Head: 3, 	Start: 230,  	 Num blks: 4, 	R/W: 0
+Cyl: 80, 	Head: 0, 	Start: 335,  	 Num blks: 3, 	R/W: 0
+Cyl: 81, 	Head: 1, 	Start: 340,  	 Num blks: 2, 	R/W: 1
+Cyl: 78, 	Head: 2, 	Start: 20,  	 Num blks: 5, 	R/W: 0
+Cyl: 76, 	Head: 0, 	Start: 35,  	 Num blks: 6, 	R/W: 0
+Cyl: 77, 	Head: 1, 	Start: 70,  	 Num blks: 2, 	R/W: 1
+Cyl: 78, 	Head: 1, 	Start: 45,  	 Num blks: 6, 	R/W: 0
+Cyl: 66, 	Head: 2, 	Start: 24,  	 Num blks: 5, 	R/W: 0
+Cyl: 60, 	Head: 8, 	Start: 69,  	 Num blks: 6, 	R/W: 0
+Cyl: 57, 	Head: 1, 	Start: 65,  	 Num blks: 7, 	R/W: 0
+Cyl: 62, 	Head: 5, 	Start: 400,  	 Num blks: 9, 	R/W: 1
+Cyl: 63, 	Head: 4, 	Start: 145,  	 Num blks: 8, 	R/W: 0
+Cyl: 40, 	Head: 7, 	Start: 50,  	 Num blks: 1, 	R/W: 0
+Cyl: 20, 	Head: 1, 	Start: 25,  	 Num blks: 2, 	R/W: 1
+Cyl: 10, 	Head: 0, 	Start: 58,  	 Num blks: 3, 	R/W: 0
+Cyl: 55, 	Head: 2, 	Start: 35,  	 Num blks: 4, 	R/W: 0
+Cyl: 99, 	Head: 9, 	Start: 350,  	 Num blks: 8, 	R/W: 0
